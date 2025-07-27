@@ -1,9 +1,5 @@
 # Artify-
-Got it! You want an explanation **about your project** — like a short write-up for the README or when sharing it. Here’s a sample explanation based on what I know so far:
-
----
-
-## 🎨 Artify — A Simple Personal Website
+A Simple Personal Website
 
 **Artify** is a personal website project made using **HTML and CSS**. It includes multiple pages like:
 
